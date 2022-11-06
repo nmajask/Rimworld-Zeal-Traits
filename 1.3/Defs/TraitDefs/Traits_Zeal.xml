@@ -13,7 +13,6 @@
           <ConversionPower>1.25</ConversionPower>
           <SocialIdeoSpreadFrequencyFactor>2</SocialIdeoSpreadFrequencyFactor>
           <CertaintyLossFactor>0.5</CertaintyLossFactor>
-          <IdeoThoughtMultiplier>1.5</IdeoThoughtMultiplier>
         </statFactors>
       </li>
       <li>
@@ -24,7 +23,6 @@
           <ConversionPower>1.10</ConversionPower>
           <SocialIdeoSpreadFrequencyFactor>1.5</SocialIdeoSpreadFrequencyFactor>
           <CertaintyLossFactor>0.75</CertaintyLossFactor>
-          <IdeoThoughtMultiplier>1.25</IdeoThoughtMultiplier>
         </statFactors>
       </li>
       <li>
@@ -35,7 +33,6 @@
           <ConversionPower>0.90</ConversionPower>
           <SocialIdeoSpreadFrequencyFactor>0.5</SocialIdeoSpreadFrequencyFactor>
           <CertaintyLossFactor>1.5</CertaintyLossFactor>
-          <IdeoThoughtMultiplier>0.75</IdeoThoughtMultiplier>
         </statFactors>
       </li> 
       <li>
@@ -46,7 +43,6 @@
           <ConversionPower>0.75</ConversionPower>
           <SocialIdeoSpreadFrequencyFactor>0</SocialIdeoSpreadFrequencyFactor>
           <CertaintyLossFactor>2</CertaintyLossFactor>
-          <IdeoThoughtMultiplier>0.5</IdeoThoughtMultiplier>
         </statFactors>
       </li> 
     </degreeDatas>
